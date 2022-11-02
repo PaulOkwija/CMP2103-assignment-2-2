@@ -4,12 +4,12 @@ a.out:
 	g++ -std=c++11 Tests/test.cpp
 
 b.out:
-	g++ -std=c++11 Tests/test2.cpp
+	g++ -std=c++11 Tests/test_2.cpp
 
 test: a.out
 	./a.out
 	
-test: b.out
+test2: b.out
 	./b.out
 
 clean:
