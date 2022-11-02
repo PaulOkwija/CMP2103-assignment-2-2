@@ -3,7 +3,6 @@
 #include<string>
 #include<cmath>
 
-using namespace std;
 
 string check_triangle(double a, double b, double c){
     }
