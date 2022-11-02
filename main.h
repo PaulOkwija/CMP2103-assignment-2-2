@@ -4,7 +4,7 @@
 #include<cmath>
 
 
-string check_triangle(double a, double b, double c){
+std::string check_triangle(double a, double b, double c){
        // START YOUR CODE HERE
     
     // END YOUR CODE HERE
