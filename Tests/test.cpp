@@ -11,6 +11,6 @@ TEST_CASE( "Test_1", "Tests" ) {
     REQUIRE( check_triangle(52,24,13) == "The triangle is a scalene triangle");
 }
 TEST_CASE( "Test_2", "Tests" ) {
-    REQUIRE( check_triangle_answer(5,4,3) == "The triangle is a right-angled triangle");
+    REQUIRE( check_triangle(5,4,3) == "The triangle is a right-angled triangle");
 }
 
