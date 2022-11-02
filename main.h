@@ -5,7 +5,7 @@
 
 using namespace std;
 
-string check_triangle_answer(double a, double b, double c){
+string check_triangle(double a, double b, double c){
     double a_squared;
     double b_squared;
     double c_squared;
