@@ -1,7 +1,6 @@
 #include <iostream>
 #include "main.h"
 #include<cmath>
-#include<fstream>
 
 
 int main(){
